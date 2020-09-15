@@ -1,9 +1,0 @@
-.DS_Store
-.AppleDouble
-.LSOverride
-.vs
-
-.idea/
-node_modules/
-dist/
-app/css/
