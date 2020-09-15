@@ -43,3 +43,10 @@ https://github.com/andrav24
 * 2017 - 2020-March - Foxpro developer in regional Insurance Company. (Krasnoyarsk)
 * 2008 - 2015 - Foxpro developer in small Insurance Company. (Krasnoyarsk)
 
+## Education:
+* 2020 - course HTML/CSS by Vadim Prokopchuk
+* 2020 - course Web Development (HTML/CSS) at Loftschool
+* 2020 - course PHP Backend Development at Loftschool
+* 2019 - course Android Java Development at Loftschool
+* 2003 - Siberian State University of Technology
+
