@@ -34,3 +34,6 @@ I have about 10 years of experience in Foxpro programming language. I started my
 * SOLID principles
 * Linux
 
+## Code samples:
+https://github.com/andrav24
+
