@@ -50,3 +50,6 @@ https://github.com/andrav24
 * 2019 - course Android Java Development at Loftschool
 * 2003 - Siberian State University of Technology
 
+## English:
+**A2**  
+I have a good reading skill. I like read books and articles on English. My next goal in this field is increase my skill in spoken, writing and listening.
