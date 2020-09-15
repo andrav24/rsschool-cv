@@ -37,3 +37,9 @@ I have about 10 years of experience in Foxpro programming language. I started my
 ## Code samples:
 https://github.com/andrav24
 
+## Experience:
+* 2020-June - current time - unemployed
+* 2020-March - 2020-May - Trainee mobile developer in one of Top-5 Insurance Company. (Moscow)
+* 2017 - 2020-March - Foxpro developer in regional Insurance Company. (Krasnoyarsk)
+* 2008 - 2015 - Foxpro developer in small Insurance Company. (Krasnoyarsk)
+
